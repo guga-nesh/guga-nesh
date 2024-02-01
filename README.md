@@ -29,7 +29,7 @@ Data Science Technologies:
 Software Development Technologies:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,javascript,jquery,vue,docker,laravel,nodejs,express"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,javascript,jquery,vue,docker,laravel,nodejs,express,aws"/>
   </a>
 </div>
 
