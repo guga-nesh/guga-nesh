@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 `Aspiring Machine Learning Engineer`
 
 👨‍💻 I'm a passionate Information Systems undergrad diving into data science, 📊 🚀 with a passion for Cloud Services ☁️. Currently, my focus is towards building Machine Learning and AI 🤖 projects that can help solve real-world problems. I am always on the lookout for like-minded individuals who would like to collaborate on projects. Do feel free to reach out at:
-- 📫 [guganeshs.2020@smu.edu.sg](guganeshs.2020@smu.edu.sg)
+- 📫 [guganeshs.2020@smu.edu.sg](mailto:guganeshs.2020@smu.edu.sg")
 - <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> [LinkedIn](https://www.linkedin.com/in/s-guganesh/)
 
