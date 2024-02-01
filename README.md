@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # S Guganesh
 `Aspiring Machine Learning Engineer`
 
-👨‍💻 I'm a passionate Information Systems undergrad diving into data science, with a passion for Cloud Services. Currently, my focus is towards building Machine Learning and AI projects that can help solve real-world problems. I am always on the lookout for like-minded individuals who would like to collaborate on projects. Do feel free to reach out
+👨‍💻 I'm a passionate Information Systems undergrad diving into data science, with a passion for Cloud Services. Currently, my focus is towards building Machine Learning and AI projects that can help solve real-world problems. I am always on the lookout for like-minded individuals who would like to collaborate on projects. Do feel free to reach out via [LinkedIn](https://www.linkedin.com/in/s-guganesh/).
 
 ## I am proficient in
 Data Science Technologies:
